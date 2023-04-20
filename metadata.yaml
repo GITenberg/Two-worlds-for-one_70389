@@ -1,0 +1,44 @@
+_repo: Two-worlds-for-one_70389
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Luros, Milton
+    alias: Rosenblatt, Milton Louis
+    birthdate: 1911
+    deathdate: 1999
+    gutenberg_agent_id: '41543'
+    url: http://www.gutenberg.org/2009/agents/41543
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Smith, George Oliver
+    - Long, Wesley
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2023-03-26'
+identifiers:
+  gutenberg: '70389'
+language: en
+pgterms:marc905: 20220528135707smith
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Inventions -- Fiction'
+- !lcsh 'Cold War -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Two worlds for one
+url: http://www.gutenberg.org/ebooks/70389
