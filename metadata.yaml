@@ -8,6 +8,9 @@ contributor:
     deathdate: 1999
     gutenberg_agent_id: '41543'
     url: http://www.gutenberg.org/2009/agents/41543
+covers:
+- cover_type: archival
+  image_path: 70389-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70389#Two-worlds-for-one
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70389'
